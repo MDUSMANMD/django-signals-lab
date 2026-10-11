@@ -1,7 +1,0 @@
-Q1 events: ['caller before send', 'receiver started', 'receiver finished', 'caller after send']
-Q1 send duration >= 0.05 seconds: True
-Q2 caller thread: 140520770748864; receiver thread: 140520770748864; equal: True
-Q3 atomic after receiver exception (source, audit): (0, 0)
-Q3 autocommit after receiver exception (source, audit): (1, 1)
-Q4 list(Rectangle(3, 4)): [{'length': 3}, {'width': 4}]
-All four proofs passed.
